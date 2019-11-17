@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TvFlixDemo2</string>
+    <string name="favorite_hint_msg">Click on the  &#160;&#160;icon \nto mark the show as favorite</string>
+</resources>
